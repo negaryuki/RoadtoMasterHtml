@@ -1,0 +1,15 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<a name = "bookmark"> </a>
+		<a href = "http://www.google.com" > click here </a> <br/>
+		<a href = "html2.html" target = "_blank"> click here </a>
+		<p> 
+		
+		<a href = "#bookmark"> TopPage </a>
+		</p>
+	</body>
+
+
+</html>
