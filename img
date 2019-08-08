@@ -1,0 +1,24 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<a name = "bookmark"> </a>
+		<a href = "http://www.google.com" > click here </a> <br/>
+		<a href = "html2.html" target = "_blank"> click here </a>
+		<p> 
+			<img src= "Desert.jpg"title="Desert Pic" alt="Desert Picture"
+			width= "400" height= "300" style = "border: 10px solid red; float:left"
+			/>
+			hello <br/>
+			
+			<a href = "#">
+			<img src= "Desert.jpg"title="Desert Pic" alt="Desert Picture"
+			style ="width: 300 px; height= 300 px; border-width: 10 px border-color: red; border-style:solid"
+			/>
+			
+		<a href = "#bookmark"> TopPage </a>
+		</p>
+	</body>
+
+
+</html>
