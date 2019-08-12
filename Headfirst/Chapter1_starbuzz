@@ -1,8 +1,11 @@
 <!doctype html>
 <html>
 <head>
+
+<!—- why doesn’t my css code work when I write it like this :
+      <style type = “text/css”> —->
       <title>Starbuzz Coffee</title>
-      <style type= “text/css”>
+      <style>
       body{
            background-color: #d2b48c;
            margin-left:20%;
@@ -23,7 +26,7 @@
       <p> Espresso, steamed milk and chocolate syrup </p>
       <h2> Cappuchino 1.89$ </h2>
       <p> a mixture of espresso, steamed milk and foam </p>
-      <h2> Chai Tea </h2>
+      <h2> Chai Tea, 1.85$ </h2>
       <p> a spicy drink made with black tea, spices, milk and honey </p>
 
 
